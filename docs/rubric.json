@@ -1,0 +1,27 @@
+{
+  "source": "docs/rubric.md (from voice note 2026-10-26)",
+  "scale": "0-5 per criterion; null = no evidence (A: counts as 0; B: excluded)",
+  "stream_a": [
+    {"id": "A1", "name": "Tenant protection and rental reform", "weight": 30},
+    {"id": "A2", "name": "Housing affordability for residents", "weight": 20},
+    {"id": "A3", "name": "Cost of living and competition", "weight": 20},
+    {"id": "A4", "name": "Working state: bureaucracy, services, emergency readiness", "weight": 15},
+    {"id": "A5", "name": "Israel's global reputation", "weight": 10},
+    {"id": "A6", "name": "Programme quality and accountability (meta)", "weight": 5}
+  ],
+  "stream_b": [
+    {"id": "B1", "name": "Haredi enlistment"},
+    {"id": "B2", "name": "Judicial overhaul"},
+    {"id": "B3", "name": "Netanyahu"},
+    {"id": "B4", "name": "Far right in government"},
+    {"id": "B5", "name": "Palestinian question"},
+    {"id": "B6", "name": "Security and alliances"},
+    {"id": "B7", "name": "Religion and state"},
+    {"id": "B8", "name": "October 7 accountability"},
+    {"id": "B9", "name": "Diaspora and hasbara spending"}
+  ],
+  "stream_b_min_items": 4,
+  "combined_weights": [0.7, 0.5],
+  "viability_min_seats": 4,
+  "viability_basis": "3.25% threshold = 4 seats; mean of polls released 2026-10-10..22"
+}

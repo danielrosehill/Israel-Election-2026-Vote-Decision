@@ -1,0 +1,1900 @@
+{
+ "stats": {
+  "duration_before_s": 2547.9,
+  "duration_after_s": 2115.2,
+  "segments": 523,
+  "words_cut": 313,
+  "by_reason": {
+   "filler": 172,
+   "repeat-1": 53,
+   "repeat-2": 54,
+   "repeat-3": 30,
+   "repeat-4": 4
+  },
+  "params": {
+   "max_gap_s": 0.7,
+   "kept_gap_s": 0.35,
+   "fade_s": 0.008
+  }
+ },
+ "cuts": [
+  {
+   "i": 19,
+   "word": "um,",
+   "start_ms": 9940,
+   "reason": "filler"
+  },
+  {
+   "i": 29,
+   "word": "um,",
+   "start_ms": 14420,
+   "reason": "filler"
+  },
+  {
+   "i": 34,
+   "word": "uh,",
+   "start_ms": 17100,
+   "reason": "filler"
+  },
+  {
+   "i": 39,
+   "word": "um,",
+   "start_ms": 19960,
+   "reason": "filler"
+  },
+  {
+   "i": 45,
+   "word": "uh,",
+   "start_ms": 23360,
+   "reason": "filler"
+  },
+  {
+   "i": 51,
+   "word": "um,",
+   "start_ms": 25880,
+   "reason": "filler"
+  },
+  {
+   "i": 63,
+   "word": "Um,",
+   "start_ms": 29560,
+   "reason": "filler"
+  },
+  {
+   "i": 72,
+   "word": "uh,",
+   "start_ms": 33300,
+   "reason": "filler"
+  },
+  {
+   "i": 81,
+   "word": "uh,",
+   "start_ms": 36420,
+   "reason": "filler"
+  },
+  {
+   "i": 89,
+   "word": "Um,",
+   "start_ms": 38860,
+   "reason": "filler"
+  },
+  {
+   "i": 120,
+   "word": "in",
+   "start_ms": 47710,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 121,
+   "word": "the,",
+   "start_ms": 47870,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 142,
+   "word": "um,",
+   "start_ms": 52720,
+   "reason": "filler"
+  },
+  {
+   "i": 162,
+   "word": "ah,",
+   "start_ms": 59700,
+   "reason": "filler"
+  },
+  {
+   "i": 167,
+   "word": "um,",
+   "start_ms": 61100,
+   "reason": "filler"
+  },
+  {
+   "i": 181,
+   "word": "um,",
+   "start_ms": 66620,
+   "reason": "filler"
+  },
+  {
+   "i": 209,
+   "word": "Um,",
+   "start_ms": 76020,
+   "reason": "filler"
+  },
+  {
+   "i": 215,
+   "word": "I'll,",
+   "start_ms": 77790,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 248,
+   "word": "Um,",
+   "start_ms": 90660,
+   "reason": "filler"
+  },
+  {
+   "i": 260,
+   "word": "um,",
+   "start_ms": 93940,
+   "reason": "filler"
+  },
+  {
+   "i": 295,
+   "word": "Um,",
+   "start_ms": 104320,
+   "reason": "filler"
+  },
+  {
+   "i": 305,
+   "word": "uh,",
+   "start_ms": 108380,
+   "reason": "filler"
+  },
+  {
+   "i": 311,
+   "word": "public,",
+   "start_ms": 109440,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 317,
+   "word": "uh,",
+   "start_ms": 112140,
+   "reason": "filler"
+  },
+  {
+   "i": 341,
+   "word": "uh,",
+   "start_ms": 120960,
+   "reason": "filler"
+  },
+  {
+   "i": 355,
+   "word": "um,",
+   "start_ms": 126900,
+   "reason": "filler"
+  },
+  {
+   "i": 369,
+   "word": "Um,",
+   "start_ms": 133120,
+   "reason": "filler"
+  },
+  {
+   "i": 390,
+   "word": "uh,",
+   "start_ms": 146440,
+   "reason": "filler"
+  },
+  {
+   "i": 397,
+   "word": "Um,",
+   "start_ms": 148440,
+   "reason": "filler"
+  },
+  {
+   "i": 407,
+   "word": "ah,",
+   "start_ms": 151840,
+   "reason": "filler"
+  },
+  {
+   "i": 424,
+   "word": "uh,",
+   "start_ms": 159380,
+   "reason": "filler"
+  },
+  {
+   "i": 446,
+   "word": "this,",
+   "start_ms": 171510,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 461,
+   "word": "uh.",
+   "start_ms": 176700,
+   "reason": "filler"
+  },
+  {
+   "i": 465,
+   "word": "It's",
+   "start_ms": 178070,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 466,
+   "word": "a,",
+   "start_ms": 178390,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 484,
+   "word": "in",
+   "start_ms": 186380,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 485,
+   "word": "uh,",
+   "start_ms": 186660,
+   "reason": "filler"
+  },
+  {
+   "i": 490,
+   "word": "uh,",
+   "start_ms": 188800,
+   "reason": "filler"
+  },
+  {
+   "i": 508,
+   "word": "It's",
+   "start_ms": 194780,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 509,
+   "word": "a",
+   "start_ms": 195060,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 510,
+   "word": "uh.",
+   "start_ms": 195200,
+   "reason": "filler"
+  },
+  {
+   "i": 525,
+   "word": "Um.",
+   "start_ms": 204260,
+   "reason": "filler"
+  },
+  {
+   "i": 574,
+   "word": "um,",
+   "start_ms": 224960,
+   "reason": "filler"
+  },
+  {
+   "i": 613,
+   "word": "from",
+   "start_ms": 240890,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 614,
+   "word": "uh,",
+   "start_ms": 241660,
+   "reason": "filler"
+  },
+  {
+   "i": 625,
+   "word": "Peculiarly,",
+   "start_ms": 245890,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 640,
+   "word": "Um,",
+   "start_ms": 251280,
+   "reason": "filler"
+  },
+  {
+   "i": 708,
+   "word": "uh,",
+   "start_ms": 273220,
+   "reason": "filler"
+  },
+  {
+   "i": 713,
+   "word": "uh,",
+   "start_ms": 275320,
+   "reason": "filler"
+  },
+  {
+   "i": 727,
+   "word": "uh,",
+   "start_ms": 283280,
+   "reason": "filler"
+  },
+  {
+   "i": 732,
+   "word": "to",
+   "start_ms": 286100,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 733,
+   "word": "get,",
+   "start_ms": 286380,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 754,
+   "word": "of",
+   "start_ms": 297510,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 755,
+   "word": "the,",
+   "start_ms": 297750,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 763,
+   "word": "um,",
+   "start_ms": 302200,
+   "reason": "filler"
+  },
+  {
+   "i": 782,
+   "word": "um,",
+   "start_ms": 312140,
+   "reason": "filler"
+  },
+  {
+   "i": 806,
+   "word": "um,",
+   "start_ms": 326320,
+   "reason": "filler"
+  },
+  {
+   "i": 812,
+   "word": "the,",
+   "start_ms": 329660,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 823,
+   "word": "Um,",
+   "start_ms": 333700,
+   "reason": "filler"
+  },
+  {
+   "i": 868,
+   "word": "what,",
+   "start_ms": 349830,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 885,
+   "word": "um,",
+   "start_ms": 356460,
+   "reason": "filler"
+  },
+  {
+   "i": 916,
+   "word": "the,",
+   "start_ms": 368470,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 922,
+   "word": "um,",
+   "start_ms": 371360,
+   "reason": "filler"
+  },
+  {
+   "i": 999,
+   "word": "Uh,",
+   "start_ms": 405680,
+   "reason": "filler"
+  },
+  {
+   "i": 1103,
+   "word": "uh,",
+   "start_ms": 452280,
+   "reason": "filler"
+  },
+  {
+   "i": 1110,
+   "word": "um,",
+   "start_ms": 455940,
+   "reason": "filler"
+  },
+  {
+   "i": 1130,
+   "word": "uh,",
+   "start_ms": 463680,
+   "reason": "filler"
+  },
+  {
+   "i": 1142,
+   "word": "um,",
+   "start_ms": 469280,
+   "reason": "filler"
+  },
+  {
+   "i": 1219,
+   "word": "Um,",
+   "start_ms": 501160,
+   "reason": "filler"
+  },
+  {
+   "i": 1233,
+   "word": "um,",
+   "start_ms": 512230,
+   "reason": "filler"
+  },
+  {
+   "i": 1251,
+   "word": "Uh,",
+   "start_ms": 519670,
+   "reason": "filler"
+  },
+  {
+   "i": 1267,
+   "word": "uh,",
+   "start_ms": 524390,
+   "reason": "filler"
+  },
+  {
+   "i": 1286,
+   "word": "um,",
+   "start_ms": 528970,
+   "reason": "filler"
+  },
+  {
+   "i": 1323,
+   "word": "uh,",
+   "start_ms": 539550,
+   "reason": "filler"
+  },
+  {
+   "i": 1343,
+   "word": "um,",
+   "start_ms": 546090,
+   "reason": "filler"
+  },
+  {
+   "i": 1350,
+   "word": "um,",
+   "start_ms": 550750,
+   "reason": "filler"
+  },
+  {
+   "i": 1376,
+   "word": "Um,",
+   "start_ms": 558430,
+   "reason": "filler"
+  },
+  {
+   "i": 1392,
+   "word": "on",
+   "start_ms": 562090,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1393,
+   "word": "the.",
+   "start_ms": 562290,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1406,
+   "word": "um,",
+   "start_ms": 566970,
+   "reason": "filler"
+  },
+  {
+   "i": 1422,
+   "word": "your.",
+   "start_ms": 571850,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 1428,
+   "word": "Um,",
+   "start_ms": 574250,
+   "reason": "filler"
+  },
+  {
+   "i": 1439,
+   "word": "to.",
+   "start_ms": 579700,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 1445,
+   "word": "it's",
+   "start_ms": 581940,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1446,
+   "word": "a.",
+   "start_ms": 582180,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1455,
+   "word": "Um,",
+   "start_ms": 585570,
+   "reason": "filler"
+  },
+  {
+   "i": 1549,
+   "word": "um,",
+   "start_ms": 614990,
+   "reason": "filler"
+  },
+  {
+   "i": 1591,
+   "word": "uh.",
+   "start_ms": 627950,
+   "reason": "filler"
+  },
+  {
+   "i": 1593,
+   "word": "this.",
+   "start_ms": 628280,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 1606,
+   "word": "Um,",
+   "start_ms": 631390,
+   "reason": "filler"
+  },
+  {
+   "i": 1613,
+   "word": "um,",
+   "start_ms": 633810,
+   "reason": "filler"
+  },
+  {
+   "i": 1621,
+   "word": "We.",
+   "start_ms": 636390,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 1626,
+   "word": "We.",
+   "start_ms": 639110,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 1707,
+   "word": "um,",
+   "start_ms": 661530,
+   "reason": "filler"
+  },
+  {
+   "i": 1717,
+   "word": "uh,",
+   "start_ms": 664170,
+   "reason": "filler"
+  },
+  {
+   "i": 1729,
+   "word": "Um,",
+   "start_ms": 667570,
+   "reason": "filler"
+  },
+  {
+   "i": 1736,
+   "word": "after",
+   "start_ms": 669510,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1737,
+   "word": "viewing,",
+   "start_ms": 669790,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1770,
+   "word": "uh,",
+   "start_ms": 684710,
+   "reason": "filler"
+  },
+  {
+   "i": 1824,
+   "word": "with",
+   "start_ms": 702879,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1825,
+   "word": "a.",
+   "start_ms": 703120,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1837,
+   "word": "Um,",
+   "start_ms": 707790,
+   "reason": "filler"
+  },
+  {
+   "i": 1853,
+   "word": "Um,",
+   "start_ms": 713870,
+   "reason": "filler"
+  },
+  {
+   "i": 1862,
+   "word": "this",
+   "start_ms": 715750,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1863,
+   "word": "was,",
+   "start_ms": 715990,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 1864,
+   "word": "this",
+   "start_ms": 716190,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 1865,
+   "word": "was",
+   "start_ms": 716430,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 1866,
+   "word": "the,",
+   "start_ms": 716630,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 1867,
+   "word": "uh,",
+   "start_ms": 716930,
+   "reason": "filler"
+  },
+  {
+   "i": 1870,
+   "word": "the.",
+   "start_ms": 718270,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 1883,
+   "word": "um,",
+   "start_ms": 723670,
+   "reason": "filler"
+  },
+  {
+   "i": 1915,
+   "word": "Um,",
+   "start_ms": 735930,
+   "reason": "filler"
+  },
+  {
+   "i": 1947,
+   "word": "uh,",
+   "start_ms": 750230,
+   "reason": "filler"
+  },
+  {
+   "i": 1985,
+   "word": "um,",
+   "start_ms": 763550,
+   "reason": "filler"
+  },
+  {
+   "i": 2008,
+   "word": "um,",
+   "start_ms": 769990,
+   "reason": "filler"
+  },
+  {
+   "i": 2065,
+   "word": "um,",
+   "start_ms": 790210,
+   "reason": "filler"
+  },
+  {
+   "i": 2076,
+   "word": "um,",
+   "start_ms": 793970,
+   "reason": "filler"
+  },
+  {
+   "i": 2112,
+   "word": "like,",
+   "start_ms": 810230,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 2145,
+   "word": "Um,",
+   "start_ms": 823290,
+   "reason": "filler"
+  },
+  {
+   "i": 2193,
+   "word": "um,",
+   "start_ms": 838150,
+   "reason": "filler"
+  },
+  {
+   "i": 2211,
+   "word": "um,",
+   "start_ms": 843680,
+   "reason": "filler"
+  },
+  {
+   "i": 2287,
+   "word": "um,",
+   "start_ms": 869800,
+   "reason": "filler"
+  },
+  {
+   "i": 2334,
+   "word": "This",
+   "start_ms": 888020,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 2335,
+   "word": "is,",
+   "start_ms": 888300,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 2370,
+   "word": "uh,",
+   "start_ms": 898580,
+   "reason": "filler"
+  },
+  {
+   "i": 2393,
+   "word": "Um,",
+   "start_ms": 911020,
+   "reason": "filler"
+  },
+  {
+   "i": 2438,
+   "word": "finding,",
+   "start_ms": 929720,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 2464,
+   "word": "uh,",
+   "start_ms": 939820,
+   "reason": "filler"
+  },
+  {
+   "i": 2478,
+   "word": "um,",
+   "start_ms": 946120,
+   "reason": "filler"
+  },
+  {
+   "i": 2506,
+   "word": "uh,",
+   "start_ms": 959240,
+   "reason": "filler"
+  },
+  {
+   "i": 2526,
+   "word": "Uh,",
+   "start_ms": 965400,
+   "reason": "filler"
+  },
+  {
+   "i": 2538,
+   "word": "Um,",
+   "start_ms": 969320,
+   "reason": "filler"
+  },
+  {
+   "i": 2577,
+   "word": "Um,",
+   "start_ms": 983560,
+   "reason": "filler"
+  },
+  {
+   "i": 2581,
+   "word": "uh,",
+   "start_ms": 985500,
+   "reason": "filler"
+  },
+  {
+   "i": 2621,
+   "word": "Um,",
+   "start_ms": 1001660,
+   "reason": "filler"
+  },
+  {
+   "i": 2633,
+   "word": "ah,",
+   "start_ms": 1009560,
+   "reason": "filler"
+  },
+  {
+   "i": 2693,
+   "word": "um,",
+   "start_ms": 1029120,
+   "reason": "filler"
+  },
+  {
+   "i": 2732,
+   "word": "the,",
+   "start_ms": 1039320,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 2733,
+   "word": "uh,",
+   "start_ms": 1039400,
+   "reason": "filler"
+  },
+  {
+   "i": 2752,
+   "word": "uh,",
+   "start_ms": 1044600,
+   "reason": "filler"
+  },
+  {
+   "i": 2803,
+   "word": "um,",
+   "start_ms": 1063960,
+   "reason": "filler"
+  },
+  {
+   "i": 2806,
+   "word": "And,",
+   "start_ms": 1065360,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 2881,
+   "word": "that,",
+   "start_ms": 1098130,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 2887,
+   "word": "um,",
+   "start_ms": 1100670,
+   "reason": "filler"
+  },
+  {
+   "i": 2947,
+   "word": "Uh,",
+   "start_ms": 1121330,
+   "reason": "filler"
+  },
+  {
+   "i": 2991,
+   "word": "Um,",
+   "start_ms": 1135550,
+   "reason": "filler"
+  },
+  {
+   "i": 3007,
+   "word": "uh,",
+   "start_ms": 1142370,
+   "reason": "filler"
+  },
+  {
+   "i": 3070,
+   "word": "Um,",
+   "start_ms": 1164150,
+   "reason": "filler"
+  },
+  {
+   "i": 3082,
+   "word": "Um,",
+   "start_ms": 1170790,
+   "reason": "filler"
+  },
+  {
+   "i": 3108,
+   "word": "Uh,",
+   "start_ms": 1185010,
+   "reason": "filler"
+  },
+  {
+   "i": 3159,
+   "word": "um,",
+   "start_ms": 1212090,
+   "reason": "filler"
+  },
+  {
+   "i": 3205,
+   "word": "Um,",
+   "start_ms": 1227900,
+   "reason": "filler"
+  },
+  {
+   "i": 3217,
+   "word": "uh,",
+   "start_ms": 1232140,
+   "reason": "filler"
+  },
+  {
+   "i": 3234,
+   "word": "Um,",
+   "start_ms": 1237240,
+   "reason": "filler"
+  },
+  {
+   "i": 3262,
+   "word": "whatever,",
+   "start_ms": 1246740,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 3270,
+   "word": "oh,",
+   "start_ms": 1249860,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 3332,
+   "word": "um,",
+   "start_ms": 1272480,
+   "reason": "filler"
+  },
+  {
+   "i": 3355,
+   "word": "ah,",
+   "start_ms": 1282880,
+   "reason": "filler"
+  },
+  {
+   "i": 3394,
+   "word": "Um,",
+   "start_ms": 1297020,
+   "reason": "filler"
+  },
+  {
+   "i": 3441,
+   "word": "how",
+   "start_ms": 1317460,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 3442,
+   "word": "did,",
+   "start_ms": 1317620,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 3465,
+   "word": "uh,",
+   "start_ms": 1327680,
+   "reason": "filler"
+  },
+  {
+   "i": 3477,
+   "word": "they're,",
+   "start_ms": 1330430,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 3494,
+   "word": "um,",
+   "start_ms": 1335280,
+   "reason": "filler"
+  },
+  {
+   "i": 3497,
+   "word": "to",
+   "start_ms": 1337870,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 3498,
+   "word": "be",
+   "start_ms": 1338030,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 3499,
+   "word": "more,",
+   "start_ms": 1338150,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 3505,
+   "word": "what,",
+   "start_ms": 1339590,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 3587,
+   "word": "Um,",
+   "start_ms": 1364820,
+   "reason": "filler"
+  },
+  {
+   "i": 3609,
+   "word": "Um,",
+   "start_ms": 1374400,
+   "reason": "filler"
+  },
+  {
+   "i": 3612,
+   "word": "uh,",
+   "start_ms": 1376200,
+   "reason": "filler"
+  },
+  {
+   "i": 3627,
+   "word": "you're",
+   "start_ms": 1380470,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 3628,
+   "word": "like.",
+   "start_ms": 1380630,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 3716,
+   "word": "uh,",
+   "start_ms": 1406100,
+   "reason": "filler"
+  },
+  {
+   "i": 3802,
+   "word": "who,",
+   "start_ms": 1432130,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 3803,
+   "word": "uh,",
+   "start_ms": 1432400,
+   "reason": "filler"
+  },
+  {
+   "i": 3807,
+   "word": "Um,",
+   "start_ms": 1434600,
+   "reason": "filler"
+  },
+  {
+   "i": 3819,
+   "word": "um,",
+   "start_ms": 1441430,
+   "reason": "filler"
+  },
+  {
+   "i": 3842,
+   "word": "Um,",
+   "start_ms": 1449110,
+   "reason": "filler"
+  },
+  {
+   "i": 3856,
+   "word": "ER",
+   "start_ms": 1452520,
+   "reason": "filler"
+  },
+  {
+   "i": 3888,
+   "word": "uh,",
+   "start_ms": 1463390,
+   "reason": "filler"
+  },
+  {
+   "i": 3944,
+   "word": "the",
+   "start_ms": 1479810,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 3945,
+   "word": "doctor.",
+   "start_ms": 1479930,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 3995,
+   "word": "Uh,",
+   "start_ms": 1498030,
+   "reason": "filler"
+  },
+  {
+   "i": 4021,
+   "word": "uh,",
+   "start_ms": 1517010,
+   "reason": "filler"
+  },
+  {
+   "i": 4081,
+   "word": "I,",
+   "start_ms": 1538315,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4164,
+   "word": "he",
+   "start_ms": 1566890,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4165,
+   "word": "wouldn't,",
+   "start_ms": 1567050,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4182,
+   "word": "er,",
+   "start_ms": 1573930,
+   "reason": "filler"
+  },
+  {
+   "i": 4259,
+   "word": "uh,",
+   "start_ms": 1603900,
+   "reason": "filler"
+  },
+  {
+   "i": 4299,
+   "word": "um,",
+   "start_ms": 1615750,
+   "reason": "filler"
+  },
+  {
+   "i": 4316,
+   "word": "You",
+   "start_ms": 1624170,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4317,
+   "word": "can,",
+   "start_ms": 1624330,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4347,
+   "word": "um,",
+   "start_ms": 1645090,
+   "reason": "filler"
+  },
+  {
+   "i": 4413,
+   "word": "we,",
+   "start_ms": 1678240,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4449,
+   "word": "and,",
+   "start_ms": 1687760,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4453,
+   "word": "it's,",
+   "start_ms": 1692320,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4458,
+   "word": "um,",
+   "start_ms": 1696060,
+   "reason": "filler"
+  },
+  {
+   "i": 4540,
+   "word": "that,",
+   "start_ms": 1725720,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4544,
+   "word": "Uh,",
+   "start_ms": 1727200,
+   "reason": "filler"
+  },
+  {
+   "i": 4563,
+   "word": "is",
+   "start_ms": 1733640,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4564,
+   "word": "that,",
+   "start_ms": 1733800,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4565,
+   "word": "is",
+   "start_ms": 1734000,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 4566,
+   "word": "that",
+   "start_ms": 1734200,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 4567,
+   "word": "the,",
+   "start_ms": 1734440,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 4642,
+   "word": "uh,",
+   "start_ms": 1766010,
+   "reason": "filler"
+  },
+  {
+   "i": 4704,
+   "word": "who,",
+   "start_ms": 1791500,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4714,
+   "word": "uh,",
+   "start_ms": 1795790,
+   "reason": "filler"
+  },
+  {
+   "i": 4724,
+   "word": "uh",
+   "start_ms": 1800470,
+   "reason": "filler"
+  },
+  {
+   "i": 4741,
+   "word": "on",
+   "start_ms": 1806240,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4742,
+   "word": "the,",
+   "start_ms": 1806320,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4743,
+   "word": "on",
+   "start_ms": 1806440,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4744,
+   "word": "the,",
+   "start_ms": 1806600,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 4754,
+   "word": "That's,",
+   "start_ms": 1808880,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4771,
+   "word": "those,",
+   "start_ms": 1815760,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4781,
+   "word": "The,",
+   "start_ms": 1820399,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4816,
+   "word": "uh,",
+   "start_ms": 1837030,
+   "reason": "filler"
+  },
+  {
+   "i": 4835,
+   "word": "The,",
+   "start_ms": 1845670,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4838,
+   "word": "the,",
+   "start_ms": 1846949,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4888,
+   "word": "um,",
+   "start_ms": 1868950,
+   "reason": "filler"
+  },
+  {
+   "i": 4980,
+   "word": "the,",
+   "start_ms": 1905460,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 4989,
+   "word": "uh,",
+   "start_ms": 1907810,
+   "reason": "filler"
+  },
+  {
+   "i": 4995,
+   "word": "whatever,",
+   "start_ms": 1911300,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5020,
+   "word": "Um,",
+   "start_ms": 1927110,
+   "reason": "filler"
+  },
+  {
+   "i": 5024,
+   "word": "it's,",
+   "start_ms": 1933620,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5025,
+   "word": "um,",
+   "start_ms": 1934090,
+   "reason": "filler"
+  },
+  {
+   "i": 5070,
+   "word": "uh,",
+   "start_ms": 1947130,
+   "reason": "filler"
+  },
+  {
+   "i": 5085,
+   "word": "I,",
+   "start_ms": 1953660,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5091,
+   "word": "I,",
+   "start_ms": 1955060,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5120,
+   "word": "uh,",
+   "start_ms": 1971550,
+   "reason": "filler"
+  },
+  {
+   "i": 5160,
+   "word": "Let's,",
+   "start_ms": 1989910,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5161,
+   "word": "let's,",
+   "start_ms": 1990190,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5168,
+   "word": "the",
+   "start_ms": 1992790,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5169,
+   "word": "world",
+   "start_ms": 1992910,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5170,
+   "word": "is,",
+   "start_ms": 1993030,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5214,
+   "word": "What",
+   "start_ms": 2008430,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5215,
+   "word": "kind",
+   "start_ms": 2008710,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5216,
+   "word": "of,",
+   "start_ms": 2008870,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5237,
+   "word": "this",
+   "start_ms": 2018140,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5238,
+   "word": "is,",
+   "start_ms": 2018460,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5266,
+   "word": "it's",
+   "start_ms": 2028300,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5267,
+   "word": "a",
+   "start_ms": 2028700,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5268,
+   "word": "dismal,",
+   "start_ms": 2028820,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5325,
+   "word": "uh,",
+   "start_ms": 2057770,
+   "reason": "filler"
+  },
+  {
+   "i": 5342,
+   "word": "term",
+   "start_ms": 2065430,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5360,
+   "word": "that",
+   "start_ms": 2074230,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5361,
+   "word": "the,",
+   "start_ms": 2074390,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5372,
+   "word": "I,",
+   "start_ms": 2077510,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5375,
+   "word": "there's",
+   "start_ms": 2078430,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5376,
+   "word": "a",
+   "start_ms": 2079070,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5377,
+   "word": "uh,",
+   "start_ms": 2079330,
+   "reason": "filler"
+  },
+  {
+   "i": 5453,
+   "word": "Um,",
+   "start_ms": 2105510,
+   "reason": "filler"
+  },
+  {
+   "i": 5487,
+   "word": "uh,",
+   "start_ms": 2122750,
+   "reason": "filler"
+  },
+  {
+   "i": 5524,
+   "word": "Um,",
+   "start_ms": 2147550,
+   "reason": "filler"
+  },
+  {
+   "i": 5530,
+   "word": "any,",
+   "start_ms": 2151390,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5554,
+   "word": "um,",
+   "start_ms": 2158370,
+   "reason": "filler"
+  },
+  {
+   "i": 5556,
+   "word": "you",
+   "start_ms": 2160910,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5557,
+   "word": "can't,",
+   "start_ms": 2161190,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5578,
+   "word": "so",
+   "start_ms": 2166510,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5579,
+   "word": "many,",
+   "start_ms": 2166670,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5624,
+   "word": "ah,",
+   "start_ms": 2180030,
+   "reason": "filler"
+  },
+  {
+   "i": 5628,
+   "word": "uh,",
+   "start_ms": 2181150,
+   "reason": "filler"
+  },
+  {
+   "i": 5634,
+   "word": "uh,",
+   "start_ms": 2184470,
+   "reason": "filler"
+  },
+  {
+   "i": 5650,
+   "word": "and,",
+   "start_ms": 2188640,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5651,
+   "word": "and",
+   "start_ms": 2190040,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5652,
+   "word": "um,",
+   "start_ms": 2190450,
+   "reason": "filler"
+  },
+  {
+   "i": 5655,
+   "word": "of,",
+   "start_ms": 2191600,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5676,
+   "word": "uh,",
+   "start_ms": 2202810,
+   "reason": "filler"
+  },
+  {
+   "i": 5685,
+   "word": "uh,",
+   "start_ms": 2209210,
+   "reason": "filler"
+  },
+  {
+   "i": 5731,
+   "word": "that's",
+   "start_ms": 2229810,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5732,
+   "word": "all",
+   "start_ms": 2230050,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5733,
+   "word": "we,",
+   "start_ms": 2230170,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5793,
+   "word": "Look",
+   "start_ms": 2249060,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5794,
+   "word": "at,",
+   "start_ms": 2249300,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 5803,
+   "word": "Um,",
+   "start_ms": 2251710,
+   "reason": "filler"
+  },
+  {
+   "i": 5853,
+   "word": "for,",
+   "start_ms": 2270340,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 5856,
+   "word": "Um,",
+   "start_ms": 2273350,
+   "reason": "filler"
+  },
+  {
+   "i": 5897,
+   "word": "um,",
+   "start_ms": 2286210,
+   "reason": "filler"
+  },
+  {
+   "i": 5937,
+   "word": "it's",
+   "start_ms": 2304510,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5938,
+   "word": "such",
+   "start_ms": 2304670,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5939,
+   "word": "a,",
+   "start_ms": 2304790,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5948,
+   "word": "This",
+   "start_ms": 2307550,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5949,
+   "word": "was",
+   "start_ms": 2307750,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5950,
+   "word": "not,",
+   "start_ms": 2307910,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 5990,
+   "word": "Um,",
+   "start_ms": 2319830,
+   "reason": "filler"
+  },
+  {
+   "i": 6011,
+   "word": "uh,",
+   "start_ms": 2325450,
+   "reason": "filler"
+  },
+  {
+   "i": 6028,
+   "word": "part",
+   "start_ms": 2333150,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 6029,
+   "word": "time,",
+   "start_ms": 2333430,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 6034,
+   "word": "Um,",
+   "start_ms": 2335070,
+   "reason": "filler"
+  },
+  {
+   "i": 6204,
+   "word": "um,",
+   "start_ms": 2404350,
+   "reason": "filler"
+  },
+  {
+   "i": 6211,
+   "word": "And",
+   "start_ms": 2411100,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 6212,
+   "word": "um,",
+   "start_ms": 2411170,
+   "reason": "filler"
+  },
+  {
+   "i": 6251,
+   "word": "um,",
+   "start_ms": 2426210,
+   "reason": "filler"
+  },
+  {
+   "i": 6299,
+   "word": "of",
+   "start_ms": 2445659,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 6300,
+   "word": "the,",
+   "start_ms": 2445860,
+   "reason": "repeat-2"
+  },
+  {
+   "i": 6318,
+   "word": "uh,",
+   "start_ms": 2451770,
+   "reason": "filler"
+  },
+  {
+   "i": 6381,
+   "word": "Um,",
+   "start_ms": 2479610,
+   "reason": "filler"
+  },
+  {
+   "i": 6404,
+   "word": "in,",
+   "start_ms": 2488070,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 6405,
+   "word": "in,",
+   "start_ms": 2488390,
+   "reason": "repeat-1"
+  },
+  {
+   "i": 6408,
+   "word": "uh,",
+   "start_ms": 2489530,
+   "reason": "filler"
+  },
+  {
+   "i": 6413,
+   "word": "Um,",
+   "start_ms": 2491390,
+   "reason": "filler"
+  },
+  {
+   "i": 6447,
+   "word": "Um,",
+   "start_ms": 2502570,
+   "reason": "filler"
+  },
+  {
+   "i": 6460,
+   "word": "the",
+   "start_ms": 2510310,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 6461,
+   "word": "bar",
+   "start_ms": 2510510,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 6462,
+   "word": "is,",
+   "start_ms": 2510750,
+   "reason": "repeat-3"
+  },
+  {
+   "i": 6481,
+   "word": "um,",
+   "start_ms": 2516410,
+   "reason": "filler"
+  },
+  {
+   "i": 6507,
+   "word": "that",
+   "start_ms": 2525030,
+   "reason": "repeat-4"
+  },
+  {
+   "i": 6508,
+   "word": "would",
+   "start_ms": 2525190,
+   "reason": "repeat-4"
+  },
+  {
+   "i": 6509,
+   "word": "be",
+   "start_ms": 2525310,
+   "reason": "repeat-4"
+  },
+  {
+   "i": 6510,
+   "word": "a,",
+   "start_ms": 2525430,
+   "reason": "repeat-4"
+  },
+  {
+   "i": 6520,
+   "word": "Uh,",
+   "start_ms": 2530130,
+   "reason": "filler"
+  },
+  {
+   "i": 6543,
+   "word": "um,",
+   "start_ms": 2536370,
+   "reason": "filler"
+  },
+  {
+   "i": 6568,
+   "word": "um,",
+   "start_ms": 2546510,
+   "reason": "filler"
+  }
+ ]
+}
