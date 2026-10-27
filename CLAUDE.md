@@ -8,7 +8,7 @@ Daniel's personal vote-decision project for the 27 October 2026 Knesset election
 - `research/BRIEF.md`: instructions the research agents followed. `research/parties/*.md`: evidence per list (not scores).
 - `data/`: `parties.csv` (HF candidate-lists dataset copy), polls snapshot, `scores.json` (per-criterion 0–5 with reasons), `rankings.json/csv` (from `scripts/rank.py`).
 - `scripts/tidy_audio.py`: the audio tidy (AssemblyAI word timestamps). `scripts/rank.py`: scores → rankings.
-- `report/`: Typst sources; PDFs in `output/`.
+- `report/`: Typst sources, shared `style.typ`, `fonts/` (Alef, OFL), `icons/` (Lucide, ISC); compile from `report/` with `typst compile --root .. --font-path fonts <doc>.typ ../output/<doc>.pdf`. PDFs in `output/`; end-to-end is the primary one. Quote timestamps in `parts/voice.typ` were checked against the transcript paragraph times.
 - `space/`: static HF Space (public, `danielrosehill/Israel-Election-2026-AI-Vote-Decision`); `space/data.json` is built from `data/scores.json` + `data/rankings.json` + `report/parts/findings.md`. Publish: `with-secrets uv run --with huggingface_hub python3 -I scripts/publish_space.py`.
 - Podcast: My Weird Prompts job `custom-bf7d47e5` (2026-10-27), methodology + top five; prior related episode #6065.
 

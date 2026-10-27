@@ -25,7 +25,7 @@ no policy) and excluded from the denominator for Stream B.
 
 | ID | Criterion | Weight | Daniel's position (source) | 5 = | 0 = |
 |---|---|---|---|---|---|
-| A1 | Tenant protection and rental reform | 30 | His biggest issue "and it's not even close"; no major party has serious policy (08:21). Retaliatory termination, tenancy at will, three-day repair rule unenforced, illegal agent fees (08:21–14:14) | Specific, costed tenant-protection policy: minimum lease terms, limits on no-cause/retaliatory eviction, enforcement, agent-fee ban enforced | Nothing, or opposes regulation |
+| A1 | Tenant protection and rental reform | 30 | His biggest issue "and it's not even close"; no major party has serious policy (07:25). Retaliatory termination, tenancy at will, three-day repair rule unenforced, illegal agent fees (08:21–14:14) | Specific, costed tenant-protection policy: minimum lease terms, limits on no-cause/retaliatory eviction, enforcement, agent-fee ban enforced | Nothing, or opposes regulation |
 | A2 | Housing affordability for residents | 20 | Property ladder "near impossible"; luxury and investment towers instead of homes for residents; Jerusalem as case study (14:14–19:33) | Concrete supply/affordability plan aimed at residents (affordable rental, curbs on investment-only stock, young-family routes) | Nothing beyond slogans |
 | A3 | Cost of living and competition | 20 | Everything costs double or triple; anti-competitive market; import limits (AliExpress exemption) a petty own goal (22:22–23:46) | Specific pro-competition and import-liberalisation measures, price/wage plan | Nothing, or protectionist |
 | A4 | Working state: bureaucracy, services, emergency readiness | 15 | Utilities/Arnona admin, small-business bureaucracy, urgent care that leaves a child unattended, shelters closed or charging for parking (12:04–13:02, 20:28–22:22, 24:17–26:21) | Specific plans for service delivery, digital government, health access, civil defence | Nothing |
@@ -41,7 +41,7 @@ is the clearest test of the meta guide.
 |---|---|---|
 | B1 | Haredi enlistment | Yes, the Haredim should serve; no benefits without contribution; no state within a state (19:33–20:28). But a party that *leads* with it is "the same story" (40:26) |
 | B2 | Judicial overhaul | "Very, very dangerous, very erosive" (37:20), though out of proportion to the bread-and-butter issues |
-| B3 | Netanyahu | "The one person I'm for sure not voting for" (07:25); not a fan at all (26:52) |
+| B3 | Netanyahu | "The one person I'm for sure not voting for" (06:48); not a fan at all (26:52) |
 | B4 | Far right in government | Ben-Gvir and Smotrich are "extremist racist[s]" the system needs to hold together (31:17) |
 | B5 | Palestinian question | Does not rule out a Palestinian state in principle; doesn't see how it can be done; not what holds everything back (32:32) |
 | B6 | Security and alliances | A strong Israel that forms alliances where possible (32:09) |

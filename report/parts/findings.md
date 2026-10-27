@@ -1,6 +1,6 @@
 **Bottom line.** On the rubric built from my voice note, the best match among lists polling above the threshold is **Together (Bennett–Lapid), ballot letters רק**, followed by **The Democrats (אמת)** and **Yisrael Beiteinu (ל)**. The order of the top three is the same on Stream A alone, at 70/30 and at 50/50. Fourth and fifth (Joint List, Yashar) swap places at 50/50.
 
-**The headline finding is a gap.** No list on the ballot has a real tenant-protection policy, my top issue. The best A1 score is 3 out of 5 (Together, for tax incentives on leases of five years or more). Nobody proposes limits on no-cause or retaliatory eviction, enforcement of repair duties, or enforcement of the agent-fee ban. That is what I suspected in the note (08:21): "not a single major party … had bothered to articulate any serious policy for" it. It is still true on election day.
+**The headline finding is a gap.** No list on the ballot has a real tenant-protection policy, my top issue. The best A1 score is 3 out of 5 (Together, for tax incentives on leases of five years or more). Nobody proposes limits on no-cause or retaliatory eviction, enforcement of repair duties, or enforcement of the agent-fee ban. That is what I suspected in the note (07:25): "not a single major party … had bothered to articulate any serious policy for" it. It is still true on election day.
 
 The top five, with reasons:
 
