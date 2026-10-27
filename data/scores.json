@@ -1,0 +1,3341 @@
+{
+ "scored": "2026-10-27",
+ "scorer": "claude-opus-5-5",
+ "method": "one pass, evidence from research/parties/",
+ "parties": [
+  {
+   "slug": "together-bennett",
+   "party_en": "Together (B'Yachad)",
+   "party_he": "ביחד בראשות נפתלי בנט",
+   "leader": "Naftali Bennett",
+   "polled_seats": 11.85,
+   "on_ballot": true,
+   "evidence_file": "research/parties/together-bennett.md",
+   "scores": {
+    "A1": {
+     "score": 3,
+     "why": "Not supply-only: tax benefits for private landlords on 5+ year leases and 'long-term certainty for tenants', plus 100k long-term rental units (40% regulated, 30% below market). Nothing on eviction, retaliation, agent fees or enforcement. Lapid/German co-sponsored the 2017 Fair Rental Law",
+     "basis": "confirmed"
+    },
+    "A2": {
+     "score": 4,
+     "why": "Concrete: 100k long-term rental units in 10 years, lease-purchase after 10 years, urban-renewal and permit timelines. Benefits skewed to reservists; no curbs on investment-only stock",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 5,
+     "why": "Most specific A3 plan of any list: food prices -30% in 3 years, lower import barriers, gradual tariff cuts, break importer monopolies, accept international kosher certification, OECD-average basket target",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 3,
+     "why": "Plan pages exist on health, transport, small businesses and public service, but the evidence file did not read them",
+     "basis": "inferred"
+    },
+    "A5": {
+     "score": 2,
+     "why": "Ending regional isolation through alliances; no explicit plan to repair reputation through conduct",
+     "basis": "confirmed"
+    },
+    "A6": {
+     "score": 3,
+     "why": "About 25 web plan pages in Hebrew, English, Russian and Amharic, with some numeric targets; PM term limit and a constitution proposal. No PDF, not costed, no consultation; identity partly 'replace Netanyahu'",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 5,
+     "why": "Mandatory conscription; no state funding for those who don't serve, work or study the core curriculum",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 3,
+     "why": "Regulate Basic Laws and the judiciary 'through broad consensus', constitution proposal: not a pledge to repeal the overhaul",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 5,
+     "why": "Replacing Netanyahu is the list's core purpose",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 4,
+     "why": "Anti-Netanyahu bloc; no explicit ruling-out of Ben-Gvir/Smotrich read",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": 2,
+     "why": "Bennett favours annexing Area C and rejects statehood; Lapid's separation line is subordinate. Joint position unclear",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 4,
+     "why": "Strong security plus regional alliances",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 4,
+     "why": "Bennett backs Shabbat public transport and civil marriage; religion-and-state plan page",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": 3,
+     "why": "State commission as the government's first act: Daniel supports one but not as front-line policy",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": null,
+     "why": "Diaspora/aliyah plan pages exist but were not read; no spending position",
+     "basis": null
+    }
+   },
+   "summary": "The strongest offer on Daniel's everyday issues: a detailed cost-of-living plan with import liberalisation, a large long-term rental programme and the only landlord incentive for longer leases. It still has nothing on retaliatory eviction, agent fees or enforcement, and Bennett's annexation stance and the 'replace Netanyahu' framing sit poorly with him.",
+   "notes": "A1 scored 3 rather than the supply-only cap of 2 because of the 5+ year lease tax incentive; judgement call."
+  },
+  {
+   "slug": "democrats",
+   "party_en": "The Democrats",
+   "party_he": "הדמוקרטים בראשות יאיר גולן",
+   "leader": "Yair Golan",
+   "polled_seats": 8.95,
+   "on_ballot": true,
+   "evidence_file": "research/parties/democrats.md",
+   "scores": {
+    "A1": {
+     "score": 1,
+     "why": "Names 'rent that shatters dreams' but the only remedy is to expand long-term rental and affordable public housing: supply-only, no numbers. Meretz's Zandberg co-sponsored the 2017 Fair Rental Law",
+     "basis": "confirmed"
+    },
+    "A2": {
+     "score": 3,
+     "why": "Dense planning near transport, urban renewal, varied unit sizes, expanded affordable public housing; resident-aimed but no numbers",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 3,
+     "why": "Fight food, drug and energy cartels, cut transport fares and out-of-pocket costs; but widens price controls and says nothing on imports",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 3,
+     "why": "Broad: health, welfare, education, public transport, north/south rehabilitation, digital access to justice, more judges. Thin on bureaucracy and civil defence",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": 4,
+     "why": "Says Israel is seen as extreme and isolated; proposes a regional initiative with the US and moderate Arab states, Saudi normalisation, IMEC: repair through policy",
+     "basis": "confirmed"
+    },
+    "A6": {
+     "score": 4,
+     "why": "Full 16-page platform PDF (Aug 2026), structured 'five steps per theme'; site in English, Arabic, Russian, Spanish, though the PDF is Hebrew-only. PM term limit, no indicted ministers. Not costed, no consultation",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 5,
+     "why": "Absolute equality of burden, national service for all, stop funding Haredi education networks; not the lead message",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 5,
+     "why": "Repeal all 'regime coup' laws including the judges' committee law",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 5,
+     "why": "Blames Netanyahu governments; 'no indicted PM'; firmly in the opposition bloc",
+     "basis": "inferred"
+    },
+    "B4": {
+     "score": 5,
+     "why": "Campaigns against 'the most extreme and religious government in Israel's history'",
+     "basis": "confirmed"
+    },
+    "B5": {
+     "score": 4,
+     "why": "Two states, halt annexation, PA role in Gaza: further than Daniel's 'can't see how', but he does not rule it out in principle",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 4,
+     "why": "Strong military plus regional initiative, Iran isolation",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 5,
+     "why": "Civil marriage and divorce, end Rabbinate monopolies, Shabbat transport, fight religious coercion",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": 4,
+     "why": "State commission, implement conclusions; not the lead item",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": null,
+     "why": "Platform PDF silent on diaspora and hasbara",
+     "basis": null
+    }
+   },
+   "summary": "The best match on documentation and on almost every Stream B position, with the only substantive plan on Israel's reputation. On rent, its top issue for Daniel, it diagnoses the problem but offers only more long-term rental and public housing, and it leans on price controls rather than competition."
+  },
+  {
+   "slug": "yisrael-beiteinu",
+   "party_en": "Yisrael Beiteinu",
+   "party_he": "ישראל ביתנו בראשות אביגדור ליברמן",
+   "leader": "Avigdor Lieberman",
+   "polled_seats": 7.2,
+   "on_ballot": true,
+   "evidence_file": "research/parties/yisrael-beiteinu.md",
+   "scores": {
+    "A1": {
+     "score": 2,
+     "why": "Supply-side rental: 20k long-term rental units a year, rent-to-buy saving 30% of rent; Malinovsky bill for a renter tax credit. No lease or eviction protection",
+     "basis": "confirmed"
+    },
+    "A2": {
+     "score": 3,
+     "why": "Land tenders on build quality not land price, 90% mortgages to 40 years for young couples, rent-to-own; partly service-linked",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 4,
+     "why": "Break monopolies including food, end exclusive importers, deregulate; unfunded per press",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 1,
+     "why": "Fewer ministers and a constitution; no service-delivery, health or civil-defence plan",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 2,
+     "why": "Hebrew web platform with concrete items and overlapping older text, no PDF, not costed; constitution, two-term PM limit. Leader-defined party",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 4,
+     "why": "Universal draft, evaders lose benefits; but it leads its campaign with the draft ('same story')",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 4,
+     "why": "Opposes the override clause and 'French law'; proposes a constitutional court",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 4,
+     "why": "Vocal Netanyahu critic; no explicit rule-out in the evidence",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 3,
+     "why": "No direct statement; opposes Haredi parties and Netanyahu coalitions",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": 3,
+     "why": "Regional package deal; past population-swap plan",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 3,
+     "why": "Security-first, bigger defence budget; little on alliances",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 5,
+     "why": "Full separation: civil marriage, Shabbat transport, core studies for funding",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": 4,
+     "why": "Promises a state commission (one outlet)",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Strong on competition and religion-and-state, with concrete rental-supply and mortgage numbers. It has no tenant protection and nothing on services or reputation, and it leads with the Haredi draft, the framing Daniel calls 'the same story'."
+  },
+  {
+   "slug": "yashar",
+   "party_en": "Yashar",
+   "party_he": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+   "leader": "Gadi Eisenkot",
+   "polled_seats": 21.4,
+   "on_ballot": true,
+   "evidence_file": "research/parties/yashar.md",
+   "scores": {
+    "A1": {
+     "score": 1,
+     "why": "Youth package mentions 'assistance and protection mechanisms for renters' with no detail; Folkman (2017 Fair Rental Law author) on the list is a candidate record, not policy",
+     "basis": "confirmed"
+    },
+    "A2": {
+     "score": 1,
+     "why": "Only 'housing benefits' for those who serve and a long-range planning authority; no supply or resident-affordability plan",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 3,
+     "why": "National plan against cost of living: break concentrations, competition, international standards; no targets, nothing on imports",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 2,
+     "why": "Periphery health/transport investment, professional civil service; no bureaucracy or civil-defence plan",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": 2,
+     "why": "'Expand peace agreements' within a security strategy; no reputation-repair plan",
+     "basis": "confirmed"
+    },
+    "A6": {
+     "score": 2,
+     "why": "Short 10-point brochure PDF; site in Hebrew, English, Russian; PM term limit. Not costed, no consultation; leader's name in the list title",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 5,
+     "why": "Haredi and Arab service, equal burden; universal national service as a coalition condition",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 4,
+     "why": "Protect rule of law and judicial independence; no specific repeal pledge",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 5,
+     "why": "Rules out serving under Netanyahu, even in rotation",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 4,
+     "why": "No direct statement; rules out a Netanyahu-led coalition",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": 3,
+     "why": "Expand peace agreements, Jewish majority; no statehood position",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 5,
+     "why": "Strengthen the IDF and expand peace agreements: Daniel's 'strong, alliances where possible'",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 3,
+     "why": "'Inclusive Judaism', local autonomy; courts Shas; no civil-marriage or Shabbat-transport pledge",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": 3,
+     "why": "State commission is point 1 of 10, the front-line framing Daniel objects to",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": 2,
+     "why": "1 million aliyah goal and keeps the Grandchild Clause: diaspora-oriented, no hasbara stance",
+     "basis": "confirmed"
+    }
+   },
+   "summary": "A credible anti-Netanyahu security list whose Stream B positions mostly fit Daniel. On his everyday issues it offers one undetailed phrase on renters, service-linked housing benefits and a generic cost-of-living pledge, and it leads with the October 7 commission and the PM candidate's name: the 'ex-general's party' pattern he describes.",
+   "notes": "Brochure PDF not read by the research agent (page summaries only)."
+  },
+  {
+   "slug": "joint-list",
+   "party_en": "Joint List",
+   "party_he": "הרשימה המשותפת",
+   "leader": "Yousef Jabareen",
+   "polled_seats": 8.1,
+   "on_ballot": true,
+   "evidence_file": "research/parties/joint-list.md",
+   "scores": {
+    "A1": {
+     "score": 2,
+     "why": "Cap rent at 20% of household net income: a real rent-regulation measure, but nothing on lease security, eviction or agent fees, and no mechanism",
+     "basis": "confirmed"
+    },
+    "A2": {
+     "score": 3,
+     "why": "Guaranteed public housing, interest-free first mortgages, state construction, land for young couples; sweeping and uncosted",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 1,
+     "why": "Wage and VAT plan, but tariffs against imports: protectionist, against Daniel's anchor",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 2,
+     "why": "Free education from 0, long-term care insurance, funded crime plan for Arab towns; nothing on bureaucracy",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 2,
+     "why": "Published economic-social web programme in Hebrew and Arabic (English/Russian nav); undated, uncosted, no security platform",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": 4,
+     "why": "No explicit statement; opposition bloc that fought the overhaul",
+     "basis": "inferred"
+    },
+    "B3": {
+     "score": 5,
+     "why": "Supports only a government that replaces Netanyahu",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 5,
+     "why": "Campaigns against 'racism, supremacy'",
+     "basis": "confirmed"
+    },
+    "B5": {
+     "score": 3,
+     "why": "End occupation and settlement funding; further than Daniel, who doubts a state can be done",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 1,
+     "why": "Deep military cuts; no alliances policy: opposite of 'a strong Israel'",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Has a real published socio-economic programme with the only rent cap of any major list and ambitious public housing. Its trade protectionism runs against Daniel's cost-of-living view, its security position is far from his, and it says nothing on tenant rights beyond the cap."
+  },
+  {
+   "slug": "raam",
+   "party_en": "United Arab List (Ra'am)",
+   "party_he": "רע\"ם – הרשימה הערבית המאוחדת",
+   "leader": "Mansour Abbas",
+   "polled_seats": 5.5,
+   "on_ballot": true,
+   "evidence_file": "research/parties/raam.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": 2,
+     "why": "Arab-sector housing record (10,000 units in the 2021 deal), opposes demolitions; no general plan",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": 2,
+     "why": "Arab-sector crime and infrastructure focus; record of a 20bn NIS infrastructure plan",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 0,
+     "why": "No published programme in any language; leader-centred",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": 4,
+     "why": "No 2026 statement; inferred from its role in the 2021-22 change coalition and the opposition to the overhaul",
+     "basis": "inferred"
+    },
+    "B3": {
+     "score": 5,
+     "why": "Rules out partnership with Netanyahu",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 5,
+     "why": "Campaigns against Ben-Gvir",
+     "basis": "confirmed"
+    },
+    "B5": {
+     "score": 2,
+     "why": "Has accepted Israel's Jewish character but refuses to call Hamas a terror organisation; no statehood stance found",
+     "basis": "inferred"
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A pragmatic delivery party for Arab society with no published programme and nothing on rent, cost of living or reputation. Its anti-Netanyahu, anti-Ben-Gvir stance fits Daniel, but there is little else to score.",
+   "notes": "B2 inferred so that the list reaches the 4-item B minimum; flag if Daniel disagrees."
+  },
+  {
+   "slug": "likud",
+   "party_en": "Likud",
+   "party_he": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+   "leader": "Benjamin Netanyahu",
+   "polled_seats": 23.45,
+   "on_ballot": true,
+   "evidence_file": "research/parties/likud.md",
+   "scores": {
+    "A1": {
+     "score": 0,
+     "why": "No tenant policy; held Housing since June 2025 with no tenant measure",
+     "basis": "confirmed"
+    },
+    "A2": {
+     "score": 1,
+     "why": "Housing named under 'society and periphery' with no specifics; claims a 1.2% price fall",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 1,
+     "why": "Electricity reform claimed; Likud MKs helped revoke the personal-import exemption raise (Daniel's AliExpress example)",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 1,
+     "why": "Holds Health and Interior; Comptroller found no body managing Iran-war evacuation and a third of residents without shelter",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": 0,
+     "why": "Answer is a quadrupled hasbara budget: the PR approach Daniel rejects",
+     "basis": "confirmed"
+    },
+    "A6": {
+     "score": 1,
+     "why": "Six generic principles plus self-reported achievements on a multilingual site; leader-centred",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 1,
+     "why": "Bismuth bill keeps full-time yeshiva exemptions",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 0,
+     "why": "Passed the judicial selection laws",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 0,
+     "why": "Netanyahu is the PM candidate",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 0,
+     "why": "Governed with Ben-Gvir and Smotrich and urged them to reunite",
+     "basis": "confirmed"
+    },
+    "B5": {
+     "score": 1,
+     "why": "Settlement and sovereignty",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 3,
+     "why": "Strong security record claimed; alliances stated, isolation in practice",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 1,
+     "why": "Concessions to Haredi parties on funding and the draft",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": 1,
+     "why": "Blocks a state commission; backed a politically appointed one",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": 0,
+     "why": "$730m public diplomacy; Diaspora ministry",
+     "basis": "confirmed"
+    }
+   },
+   "summary": "Runs Netanyahu, the one candidate Daniel will not vote for, and offers no rent, housing or cost-of-living programme beyond generic principles and its own record. Excluded by his stated choice."
+  },
+  {
+   "slug": "shas",
+   "party_en": "Shas",
+   "party_he": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+   "leader": "Aryeh Deri",
+   "polled_seats": 8.15,
+   "on_ballot": true,
+   "evidence_file": "research/parties/shas.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": 1,
+     "why": "Arnona-discount expansion under a Shas Interior minister (attribution inferred): relief, not competition",
+     "basis": "inferred"
+    },
+    "A4": {
+     "score": null,
+     "why": "Held Health and Interior; no service or urgent-care policy found",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 0,
+     "why": "No platform found",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 0,
+     "why": "Will not join a government without an exemption law",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 1,
+     "why": "In the coalition that passed the judicial selection law",
+     "basis": "inferred"
+    },
+    "B3": {
+     "score": 1,
+     "why": "Long-time Netanyahu partner; conditions are on the draft, not on him",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 1,
+     "why": "Sat with Ben-Gvir and Smotrich",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": 0,
+     "why": "Seeks Orthodox character and Haredi institution funding",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A sectoral party whose stated purpose is a draft-exemption law and institutional funding. No platform and nothing on rent or housing; only an arnona-discount record touches Daniel's issues."
+  },
+  {
+   "slug": "utj",
+   "party_en": "United Torah Judaism",
+   "party_he": "יהדות התורה והשבת אגודת ישראל – דגל התורה",
+   "leader": "Ya'akov Asher",
+   "polled_seats": 7.7,
+   "on_ballot": true,
+   "evidence_file": "research/parties/utj.md",
+   "scores": {
+    "A1": {
+     "score": 0,
+     "why": "Held Housing (Goldknopf, 2022-25) and produced no tenant legislation",
+     "basis": "confirmed"
+    },
+    "A2": {
+     "score": 0,
+     "why": "Housing minister unsure there was a crisis; repurposed general-public projects for Haredim",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 1,
+     "why": "Pushed a VAT cut to 17%; no competition policy",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 0,
+     "why": "No platform found",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 0,
+     "why": "Exemption for all full-time yeshiva students, no sanctions",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 1,
+     "why": "In the coalition when the judicial selection law passed",
+     "basis": "inferred"
+    },
+    "B3": {
+     "score": 2,
+     "why": "Says it belongs to no bloc; earlier backed Netanyahu",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 1,
+     "why": "Sat in government with Ben-Gvir and Smotrich",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": 0,
+     "why": "Funding and autonomy for yeshivas and schools",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A sectoral list whose only stated demand is a draft-exemption law. Its housing ministry record is negative for Daniel and it has no platform."
+  },
+  {
+   "slug": "otzma-yehudit",
+   "party_en": "Otzma Yehudit",
+   "party_he": "עוצמה יהודית בראשות איתמר בן גביר",
+   "leader": "Itamar Ben-Gvir",
+   "polled_seats": 8.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/otzma-yehudit.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "Ben-Gvir ran National Security; no civil-defence or service plan found either way",
+     "basis": null
+    },
+    "A5": {
+     "score": 0,
+     "why": "Encouraging Palestinian emigration and the death penalty for terrorists would deepen the damage",
+     "basis": "inferred"
+    },
+    "A6": {
+     "score": 0,
+     "why": "No platform; leader-led, demands ministries",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": 0,
+     "why": "Fire the attorney general, radically weaken the judiciary",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 1,
+     "why": "Netanyahu-bloc partner, though it runs separately",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 0,
+     "why": "Is the far right Daniel names",
+     "basis": "confirmed"
+    },
+    "B5": {
+     "score": 0,
+     "why": "Encourage Palestinians to leave Gaza and the West Bank",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 1,
+     "why": "Looser military constraints; no alliances",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Ben-Gvir's list, which Daniel names as extremist and racist. No platform and nothing on any Stream A issue."
+  },
+  {
+   "slug": "rzp-zehut",
+   "party_en": "Religious Zionist Party – Zehut",
+   "party_he": "הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+   "leader": "Bezalel Smotrich",
+   "polled_seats": 6.45,
+   "on_ballot": true,
+   "evidence_file": "research/parties/rzp-zehut.md",
+   "scores": {
+    "A1": {
+     "score": 0,
+     "why": "Nothing on rent; Zehut's approach is deregulation",
+     "basis": "inferred"
+    },
+    "A2": {
+     "score": 1,
+     "why": "Smotrich's Finance record: land tenders and price forecasts; admits housing was not addressed in three years; no resident plan",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 3,
+     "why": "Smotrich twice raised the personal-import exemption (Daniel's AliExpress point) and promised open banking; Zehut would remove import barriers. Record otherwise weak",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 1,
+     "why": "Welfare, health and mental-health PDFs exist but unread; no bureaucracy plan",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": 0,
+     "why": "Annexation of the West Bank, Gaza and south Lebanon: hostile to repair",
+     "basis": "confirmed"
+    },
+    "A6": {
+     "score": 2,
+     "why": "Topic-by-topic platform PDFs, mostly carried over from 2021-22, Hebrew only, silent on housing and cost of living",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 2,
+     "why": "Smotrich declined to take a position; several MKs opposed the exemption bill",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 0,
+     "why": "Rothman led the overhaul",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 1,
+     "why": "Netanyahu coalition partner",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 0,
+     "why": "Smotrich is one of the two Daniel names",
+     "basis": "confirmed"
+    },
+    "B5": {
+     "score": 0,
+     "why": "Nullify Oslo, annex, encourage emigration",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 1,
+     "why": "War in the West Bank, annex to the Litani; no alliances",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 0,
+     "why": "Jewish identity and family-law platform; religious-nationalist",
+     "basis": "inferred"
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "Diaspora/aliyah PDF exists but not read",
+     "basis": null
+    }
+   },
+   "summary": "Smotrich's list. It is the only one that tried to widen personal imports, which is Daniel's own AliExpress example, but it has no rent or housing plan, and its annexation and far-right positions are the opposite of his."
+  },
+  {
+   "slug": "reservists-economic",
+   "party_en": "The Reservists and the Economic Party",
+   "party_he": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+   "leader": "Yoaz Hendel",
+   "polled_seats": 2.05,
+   "on_ballot": true,
+   "evidence_file": "research/parties/reservists-economic.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": 1,
+     "why": "Only perks for those who serve",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 3,
+     "why": "Free economy, fight monopolies, business-barrier task force, three measurable reforms a year; imports not mentioned",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 2,
+     "why": "Regulatory-barrier task force for businesses; nothing on services",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Hebrew principles page only; PM term limit",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 4,
+     "why": "Universal draft, non-servers lose benefits and even the vote: leads with it and goes beyond 'no benefits without contribution'",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 2,
+     "why": "Partial reform: split the AG role, Basic Law: Legislation, 'broad agreement'",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 2,
+     "why": "Netanyahu 'not his red line'; recommends whoever brings most Zionist seats",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 1,
+     "why": "'Zionist government' without Haredi or Arab parties implies the right bloc",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": 1,
+     "why": "Opposes a state; 'voluntary migration directorate'",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 3,
+     "why": "Offensive doctrine; regional cooperation against Iran",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 2,
+     "why": "No budget without service; religious service tracks",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": 3,
+     "why": "Investigate all failures; sceptical of the state-commission label",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Pro-competition economics with a reform cadence, but no rent or general housing policy, and its identity is reservist burden-sharing. It polls below the threshold."
+  },
+  {
+   "slug": "amcha-yisrael",
+   "party_en": "Amcha Yisrael",
+   "party_he": "עמך ישראל בראשות עופר וינטר",
+   "leader": "Ofer Winter",
+   "polled_seats": 1.26,
+   "on_ballot": true,
+   "evidence_file": "research/parties/amcha-yisrael.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": 1,
+     "why": "Urban renewal and more supply, no detail",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 3,
+     "why": "Break monopolies, remove import barriers, cut regulation: right direction, headlines only",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 2,
+     "why": "Remove SME bureaucracy, national anti-crime body, infrastructure",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": 1,
+     "why": "A national public-diplomacy body: the hasbara answer Daniel rejects",
+     "basis": "confirmed"
+    },
+    "A6": {
+     "score": 2,
+     "why": "'Foundations' page in Hebrew and English; promises costed plans later (not seen)",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 3,
+     "why": "Universal service law with Torah-excellence quotas; will still join Haredim",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 2,
+     "why": "Split the AG; appeals over High Court rulings",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 1,
+     "why": "Will recommend only Netanyahu (not its own PM candidate, so not the formal disqualifier)",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 1,
+     "why": "Right-camp list; Ben-Gvir courted it",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": 1,
+     "why": "Voluntary emigration plan for Gaza",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": 2,
+     "why": "Decisive victory doctrine; no alliances",
+     "basis": "confirmed"
+    },
+    "B7": {
+     "score": 3,
+     "why": "Judaism that 'invites rather than coerces'",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": 4,
+     "why": "Independent inquiry with full state-commission powers",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": 1,
+     "why": "National public-diplomacy body",
+     "basis": "confirmed"
+    }
+   },
+   "summary": "A right-wing list with sensible pro-competition headlines but no rent policy. It commits to recommending Netanyahu, which in practice is a vote for him.",
+   "notes": "B3 = 1, not 0: the rubric's disqualifier is defined as running Netanyahu as PM candidate; Amcha only pledges to recommend him."
+  },
+  {
+   "slug": "israel-first",
+   "party_en": "Israel First",
+   "party_he": "ישראל תחילה בראשות שרן השכל",
+   "leader": "Sharren Haskel",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/israel-first.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": 1,
+     "why": "'Free economy' pillar; cut work-discouraging allowances",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 1,
+     "why": "Publish full sectoral budgets and transfers",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Thin Hebrew work-plan page, mostly draft statistics",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 4,
+     "why": "Equal service is the lead and founding issue ('same story')",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "'National security' pillar, no detail",
+     "basis": null
+    },
+    "B7": {
+     "score": 3,
+     "why": "Reduce sector-specific religious funding",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A single-issue list born of Haskel's resignation over the draft, which is the anti-X pattern Daniel dislikes. Nothing on his everyday issues, and it is not in the polls.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0."
+  },
+  {
+   "slug": "haredi-public",
+   "party_en": "Haredi Public",
+   "party_he": "הציבור החרדי בראשות מוטי ליטנר",
+   "leader": "Moti Leitner",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/haredi-public.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": 1,
+     "why": "Says construction lags demand; Haredi-sector housing and employment zones",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 1,
+     "why": "Free market and lower cost of living, no specifics",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 1,
+     "why": "Sector services only",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Hebrew web platform (English/French nav); no PDF or costing",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 1,
+     "why": "Protect full-time Torah learners from sanctions; others serve",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "Met the PM; stance not found",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": 1,
+     "why": "Independent Haredi education",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A free-market Haredi challenger with a short sector platform. Nothing on rent, and it keeps the yeshiva exemption."
+  },
+  {
+   "slug": "blue-and-white",
+   "party_en": "Blue and White",
+   "party_he": "כחול לבן בראשות בני גנץ",
+   "leader": "Benny Gantz",
+   "polled_seats": 0.0,
+   "on_ballot": false,
+   "evidence_file": "research/parties/blue-and-white.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 0,
+     "why": "No 2026 platform",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": 2,
+     "why": "Did not rule out a unity government with Netanyahu",
+     "basis": "confirmed"
+    },
+    "B4": {
+     "score": 5,
+     "why": "'No Ra'am, no Ben-Gvir'",
+     "basis": "confirmed"
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Withdrew on 19 Oct 2026; not on the ballot.",
+   "notes": "Gantz withdrew 2026-10-19; ballot slips removed."
+  },
+  {
+   "slug": "together-we-will-succeed",
+   "party_en": "Together We Will Succeed (Beyachad Natzliach)",
+   "party_he": "מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+   "leader": "Avi Shaked",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": 2,
+     "why": "Aims at 'a diplomatic process leading to regional stability and peace' (secondhand)",
+     "basis": "inferred"
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": 4,
+     "why": "Diplomatic process; Shaked co-founded the Geneva Initiative",
+     "basis": "inferred"
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A small Jewish-Arab list (Avi Shaked) with themes of civil equality and a peace process, but no readable programme. Not Bennett's Together.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "tzomet-beit-yisrael",
+   "party_en": "Tzomet – Beit Yisrael",
+   "party_he": "צומת בית ישראל",
+   "leader": "Gadi Yevarkan",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No platform found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "dawns-light",
+   "party_en": "Dawn's Light (Orot HaShahar)",
+   "party_he": "אורות השחר בראשות ניסים לוק",
+   "leader": "Nissim Louk",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": 1,
+     "why": "Candidate bios only: cost of living for single parents, free economy",
+     "basis": "inferred"
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Platform page exists but the body did not render; Hebrew only",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": 0,
+     "why": "Candidate bio calls for 'cancelling the High Court'",
+     "basis": "inferred"
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A grassroots list with only candidate bios readable; one bio is hostile to the court.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "partnership-for-everyone",
+   "party_en": "Partnership for Everyone (Ihud Bnei HaBrit)",
+   "party_he": "השותפות לכולם",
+   "leader": "Talal Alkrinawi",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No platform found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "garden-of-eden",
+   "party_en": "Garden of Eden (Paradise)",
+   "party_he": "גן עדן בראשות ישוע ישראל בן דוד",
+   "leader": "Israel Yeshua Ben-David",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Platform page; only a vague values intro rendered",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A values slogan list ('a government that serves the individual') with no readable policy.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "betach-social-security",
+   "party_en": "Betach – Social Security",
+   "party_he": "בטח – בטחון חברתי בראשות סמיון גרפמן",
+   "leader": "Semion Grafman",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": 1,
+     "why": "2019 platform (secondhand): competition, lower taxes",
+     "basis": "inferred"
+    },
+    "A4": {
+     "score": 1,
+     "why": "2019 platform (secondhand): bureaucracy as the core problem",
+     "basis": "inferred"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Only a 2019 PDF; no 2026 platform",
+     "basis": "inferred"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A personality-led list whose only platform dates from 2019 and names bureaucracy; no rent policy.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "eternal-covenant",
+   "party_en": "Eternal Covenant (Brit Olam)",
+   "party_he": "ברית עולם לגאולת ישראל",
+   "leader": "Ofer Pinhas Lifshitz",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": 2,
+     "why": "Remove VAT on services, committee on bank/insurance fees; favours local over foreign labour",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": 1,
+     "why": "Cut surplus government posts",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 2,
+     "why": "Hebrew web platform with 12 regional constituencies and a directly elected president: constituency representation Daniel wants, in a messianic frame",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": 2,
+     "why": "Court reform through a constitution process",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": 1,
+     "why": "Cancel Oslo, sovereignty over Judea, Samaria, Gaza",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": 1,
+     "why": "Governance grounded in a religious covenant",
+     "basis": "inferred"
+    },
+    "B8": {
+     "score": 4,
+     "why": "Immediate state commission",
+     "basis": "confirmed"
+    },
+    "B9": {
+     "score": 2,
+     "why": "Urges diaspora Jews to take Law of Return citizenship",
+     "basis": "confirmed"
+    }
+   },
+   "summary": "Proposes constituency representation, which Daniel wants, but inside a messianic, annexationist programme with nothing on rent.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "the-bible-bloc",
+   "party_en": "The Bible Bloc",
+   "party_he": "גה\"ת – גוש התנ\"כי",
+   "leader": "Dennis Lipkin",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No platform found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "noam",
+   "party_en": "Noam",
+   "party_he": "נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+   "leader": "Avi Maoz",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 0,
+     "why": "No platform found",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": 0,
+     "why": "Won't join a government without full judicial reform including an override clause",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": 1,
+     "why": "Maoz served in the Netanyahu government",
+     "basis": "inferred"
+    },
+    "B4": {
+     "score": 0,
+     "why": "Religious-nationalist list that sat with Ben-Gvir and Smotrich",
+     "basis": "inferred"
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": 0,
+     "why": "Anti-LGBT, religious-identity agenda",
+     "basis": "inferred"
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Avi Maoz's religious-identity list: pro-overhaul and coercive on religion, with no platform.",
+   "notes": "B3, B4 and B7 inferred from the 2022-26 record (not re-sourced in the evidence file)."
+  },
+  {
+   "slug": "shema",
+   "party_en": "Shema",
+   "party_he": "שמע בראשות נפתלי גולדמן",
+   "leader": "Naftali Goldman",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": 2,
+     "why": "Move army bases out of cities to free land for 'hundreds of thousands' of homes; subsidised for under-35 servers",
+     "basis": "confirmed"
+    },
+    "A3": {
+     "score": 1,
+     "why": "Support for vulnerable groups; no competition policy",
+     "basis": "confirmed"
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "One-man list's web platform on a non-party domain",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": 4,
+     "why": "Universal conscription of Jewish men, no exemption",
+     "basis": "confirmed"
+    },
+    "B2": {
+     "score": 1,
+     "why": "Limit the Supreme Court's power to strike laws",
+     "basis": "confirmed"
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": 2,
+     "why": "Opposes two states",
+     "basis": "confirmed"
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": 0,
+     "why": "Religiously coercive",
+     "basis": "confirmed"
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": 0,
+     "why": "Diaspora minister 'with significant budget'",
+     "basis": "confirmed"
+    }
+   },
+   "summary": "A one-candidate religious-moral list with an interesting army-base housing idea, but it is coercive on religion.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "personal-security",
+   "party_en": "Personal Security (Democtatorship)",
+   "party_he": "ביטחון אישי",
+   "leader": "Michael Topashshvili",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No 2026 platform found; the filing party's 2015 ideas on direct elections may not carry over.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "hatikun",
+   "party_en": "Fixing the Electoral and Governing System (HaTikun)",
+   "party_he": "התיקון לשיטת הבחירות והממשל",
+   "leader": "Moshe Salmovitz",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Exists for electoral and governance reform (name only); no content found",
+     "basis": "inferred"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Named for the electoral reform Daniel wants, but no content could be found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "the-color-black",
+   "party_en": "The Color Black – Guarding the World of Torah",
+   "party_he": "צבע שחור – מגן עולם התורה",
+   "leader": "Eliezer Baumrind",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No platform found; Haredi/Bukharan sector list.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "you-and-i",
+   "party_en": "You and I (Ani VeAta)",
+   "party_he": "אני ואתה מפלגת העם הישראלית",
+   "leader": "Alon Giladi",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No platform or coverage found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "ahi-movement",
+   "party_en": "Ahi Movement",
+   "party_he": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+   "leader": "Yuval Elimelech",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No platform found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "sharshar",
+   "party_en": "Sharshar for Love and Unity of the People",
+   "party_he": "שרשר לאהבה ואחדות העם",
+   "leader": "Eitan Shvili",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No platform or coverage found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "pirate-party",
+   "party_en": "Pirate Party",
+   "party_he": "הפיראטים – צפים לטוב",
+   "leader": "Ohad Shem Tov",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": 1,
+     "why": "Efficient, accessible administration, free internet; general",
+     "basis": "confirmed"
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 3,
+     "why": "Member-editable wiki platform (Hebrew, English separate): abolish threshold, vote delegation, lobbying transparency. Not costed",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "The closest match to Daniel's consultative, accountability ideal, but it has no policy on rent, housing or cost of living and has never come near the threshold.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "tkuma",
+   "party_en": "Tkuma (Derech Hazon VeTkuma)",
+   "party_he": "תקומה",
+   "leader": "Elkana Federman",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A post-October 7 list founded by the Nova security chief; no platform found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "womens-voice",
+   "party_en": "Women's Voice",
+   "party_he": "קול הנשים",
+   "leader": "Amir Shadmi",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No readable platform.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "new-order",
+   "party_en": "New Order",
+   "party_he": "סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+   "leader": "Avital Ofek",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "Name commits to a constitution, separation of powers and personal elections; no content found",
+     "basis": "inferred"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "Named for a constitution and personal elections, which are on Daniel's theme, but no content was found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "just-law",
+   "party_en": "Just Law (Mishpat Tzedek)",
+   "party_he": "משפט צדק",
+   "leader": "Larissa Amir",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "No readable platform.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  },
+  {
+   "slug": "hakahal",
+   "party_en": "Hakahal",
+   "party_he": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+   "leader": "Shlomo Elboim",
+   "polled_seats": 0.0,
+   "on_ballot": true,
+   "evidence_file": "research/parties/minor-lists.md",
+   "scores": {
+    "A1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "A6": {
+     "score": 1,
+     "why": "No platform, but MKs chosen by open primary and bound to an elected representatives' council: an accountability mechanism",
+     "basis": "confirmed"
+    },
+    "B1": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B2": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B3": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B4": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B5": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B6": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B7": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B8": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    },
+    "B9": {
+     "score": null,
+     "why": "No evidence found in the research file",
+     "basis": null
+    }
+   },
+   "summary": "A Haredi list built on internal primaries and accountability to its voters; no policy found.",
+   "notes": "Not in the 10-22 Oct polls; polled_seats set to 0. Light sweep only."
+  }
+ ]
+}

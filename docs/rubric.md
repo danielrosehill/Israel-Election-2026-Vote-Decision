@@ -57,8 +57,10 @@ is the clearest test of the meta guide.
 - **Combined** = 0.7 × A + 0.3 × B. The 70/30 split is an inference: the note puts Stream A first
   and calls the B issues important but over-weighted in Israeli politics. Rankings are also
   shown at 50/50 as a sensitivity check.
-- **Disqualifier:** a list running Netanyahu as its PM candidate (B3 = 0) is flagged "excluded by
-  stated choice", ranked but not recommendable.
+- **Disqualifier:** a list running Netanyahu as its PM candidate, or pledged to recommend only him
+  (B3 ≤ 1), is flagged "excluded by stated choice", ranked but not recommendable.
+- Lists with fewer than four scored Stream B items get no combined score; they are ordered by
+  0.7 × A among themselves.
 - **Viability:** the threshold is 3.25%. The note criticises splitter parties that split the vote
   (28:18). The recommendation table therefore shows each list's polled seats (mean of polls
   released 10–22 Oct 2026, from `Israeli-Elections-2026/data/polls/`) next to its score, and
