@@ -8,6 +8,7 @@ Working out who to vote for in the election to Israel's 26th Knesset (27 October
 
 - [Analysis (PDF)](output/analysis.pdf): recommendations, rankings, the full score matrix, party profiles, method
 - [Transcripts (PDF)](output/transcripts.pdf): edited and raw transcripts
+- [Interactive version (HF Space)](https://huggingface.co/spaces/danielrosehill/Israel-Election-2026-AI-Vote-Decision): move the weights, watch the ranking change
 - [End to end (PDF)](output/end-to-end.pdf): voice note → rubric → analysis → recommendation, in one document
 
 ## Project brief

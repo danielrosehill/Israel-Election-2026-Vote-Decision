@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Using AI to decide a vote: Knesset 2026, one voter's experiment</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&family=IBM+Plex+Sans+Hebrew:wght@400;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+  :root { --accent:#1f4e79; --muted:#6b7280; --line:#e5e7eb; --bg:#f8f7f4; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:"IBM Plex Sans","IBM Plex Sans Hebrew",system-ui,sans-serif; color:#1f2937; background:var(--bg); line-height:1.55; }
+  header { background:var(--accent); color:#fff; padding:28px 20px 22px; }
+  header h1 { margin:0 0 6px; font-size:26px; }
+  header p { margin:0; opacity:.9; max-width:900px; }
+  main { max-width:1150px; margin:0 auto; padding:20px; }
+  section { background:#fff; border:1px solid var(--line); border-radius:8px; padding:18px 20px; margin-bottom:18px; }
+  h2 { color:var(--accent); margin:0 0 10px; font-size:19px; }
+  .muted { color:var(--muted); font-size:13px; }
+  .steps { display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:10px; }
+  .step { border:1px solid var(--line); border-radius:6px; padding:10px; font-size:14px; }
+  .step b { display:block; color:var(--accent); }
+  .controls { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:8px 22px; }
+  .controls label { font-size:13px; display:flex; justify-content:space-between; }
+  .controls input[type=range] { width:100%; }
+  table { border-collapse:collapse; width:100%; font-size:13px; }
+  th, td { border-bottom:1px solid var(--line); padding:6px 6px; text-align:left; vertical-align:top; }
+  th { background:#f3f4f6; position:sticky; top:0; }
+  td.n, th.n { text-align:center; }
+  .he { font-family:"IBM Plex Sans Hebrew",sans-serif; font-weight:700; font-size:16px; direction:rtl; }
+  .pill { display:inline-block; font-size:11px; padding:1px 6px; border-radius:10px; background:#fee2e2; color:#991b1b; margin-left:4px; }
+  .pill.low { background:#fef3c7; color:#92400e; }
+  .matrix td.n { width:34px; font-weight:600; }
+  .scroll { overflow-x:auto; max-height:620px; overflow-y:auto; }
+  details { border-top:1px solid var(--line); padding:8px 0; }
+  summary { cursor:pointer; font-weight:600; }
+  .why td { font-size:12.5px; }
+  .findings p, .findings li { font-size:14.5px; }
+  .top3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:10px; margin:6px 0 4px; }
+  .card { border:2px solid var(--accent); border-radius:8px; padding:12px; text-align:center; }
+  .card .rank { color:var(--muted); font-size:12px; }
+  .card .he { font-size:30px; display:block; margin:4px 0; }
+  .card .score { font-size:13px; color:var(--muted); }
+  footer { text-align:center; color:var(--muted); font-size:12px; padding:20px; }
+  a { color:var(--accent); }
+  .checkbox { font-size:13px; display:flex; gap:6px; align-items:center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Using AI to decide a vote</h1>
+  <p>One voter's experiment for Israel's 27 October 2026 Knesset election. A 42-minute voice note was turned into a scoring rubric, research agents gathered evidence on all 37 lists on the ballot, and every list was scored against that voter's priorities. Adjust the weights below to see how the ranking moves.</p>
+</header>
+<main>
+<section>
+  <h2>How it worked</h2>
+  <div class="steps">
+    <div class="step"><b>1 · Voice note</b>Daniel records what he thinks is broken and what he cares about (26 Oct, 42 min).</div>
+    <div class="step"><b>2 · Transcribe</b>AssemblyAI; raw transcript kept, plus a lightly edited version.</div>
+    <div class="step"><b>3 · Rubric</b>Claude turns the note into 15 criteria with weights, each cited to the note.</div>
+    <div class="step"><b>4 · Research</b>Four Claude Sonnet agents gather sourced evidence on every list, on election day.</div>
+    <div class="step"><b>5 · Score</b>One Claude Opus agent scores all lists 0–5 on every criterion, with written reasons.</div>
+    <div class="step"><b>6 · Rank</b>A script combines the scores, applies the voter's exclusion rule and checks the polls.</div>
+  </div>
+  <p class="muted">Full repo (voice note, transcripts, evidence, scores, PDFs): <a href="https://github.com/danielrosehill/Israel-Election-2026-Vote-Decision" target="_blank">github.com/danielrosehill/Israel-Election-2026-Vote-Decision</a>. Party lists: <a href="https://huggingface.co/datasets/danielrosehill/Israel-Election-2026-Candidate-Lists" target="_blank">Israel-Election-2026-Candidate-Lists</a>. Scores are AI judgements against one person's stated positions, not neutral ratings of the parties.</p>
+</section>
+
+<section>
+  <h2>Result with the current weights</h2>
+  <div class="top3" id="top3"></div>
+  <p class="muted" id="top3note"></p>
+</section>
+
+<section>
+  <h2>Weights</h2>
+  <p class="muted">Defaults are the rubric's, inferred from the voice note. Stream A = everyday pain points; Stream B = the divisive national issues (each B item 0–5 = alignment with the voter).</p>
+  <div class="controls" id="controls"></div>
+  <div style="margin-top:10px; display:flex; gap:18px; flex-wrap:wrap">
+    <label class="checkbox"><input type="checkbox" id="excl" checked> Exclude lists running or pledged to Netanyahu (the voter's rule)</label>
+    <label class="checkbox"><input type="checkbox" id="viable" checked> Recommend only lists polling ≥ 4 seats (3.25% threshold)</label>
+    <button id="reset">Reset to defaults</button>
+  </div>
+</section>
+
+<section>
+  <h2>Ranking</h2>
+  <div class="scroll"><table id="ranking"></table></div>
+</section>
+
+<section>
+  <h2>Raw scores (0–5)</h2>
+  <p class="muted" id="legend"></p>
+  <div class="scroll"><table class="matrix" id="matrix"></table></div>
+</section>
+
+<section>
+  <h2>Why each list scored as it did</h2>
+  <div id="profiles"></div>
+</section>
+
+<section class="findings">
+  <h2>Findings (default weights)</h2>
+  <div id="findings"></div>
+</section>
+</main>
+<footer>Built 27 October 2026 with Claude (Anthropic). Data and code CC BY-SA 4.0.</footer>
+
+<script>
+const shade = v => {
+  if (v === null || v === undefined) return "#f3f4f6";
+  const t = Math.max(0, Math.min(1, v));
+  const r = Math.round(217 + (92 - 217) * t), g = Math.round(83 + (184 - 83) * t), b = Math.round(79 + (92 - 79) * t);
+  return `rgba(${r},${g},${b},0.42)`;
+};
+const fmt = v => v === null ? "–" : (Math.round(v * 10) / 10).toString();
+let D, W = {}, SPLIT = 70;
+
+fetch("data.json").then(r => r.json()).then(d => {
+  D = d;
+  document.getElementById("findings").innerHTML = marked.parse(d.findings);
+  buildControls(); render();
+});
+
+function defaults() {
+  W = {}; D.rubric.stream_a.forEach(c => W[c.id] = c.weight);
+  D.rubric.stream_b.forEach(c => W[c.id] = 1);
+  SPLIT = Math.round(D.rubric.combined_weights[0] * 100);
+}
+
+function buildControls() {
+  defaults();
+  const box = document.getElementById("controls");
+  const add = (id, label, max, val) => {
+    const el = document.createElement("div");
+    el.innerHTML = `<label><span>${label}</span><span id="v_${id}">${val}</span></label><input type="range" min="0" max="${max}" value="${val}" id="w_${id}">`;
+    box.appendChild(el);
+    el.querySelector("input").addEventListener("input", e => {
+      const v = +e.target.value; if (id === "split") SPLIT = v; else W[id] = v;
+      document.getElementById("v_" + id).textContent = id === "split" ? `${v}% A / ${100 - v}% B` : v; render();
+    });
+  };
+  add("split", "<b>Stream A vs B</b>", 100, SPLIT);
+  document.getElementById("v_split").textContent = `${SPLIT}% A / ${100 - SPLIT}% B`;
+  D.rubric.stream_a.forEach(c => add(c.id, `${c.id} ${c.name}`, 40, c.weight));
+  D.rubric.stream_b.forEach(c => add(c.id, `${c.id} ${c.name} (relative)`, 3, 1));
+  ["excl", "viable"].forEach(id => document.getElementById(id).addEventListener("change", render));
+  document.getElementById("reset").addEventListener("click", () => {
+    defaults();
+    document.querySelectorAll("#controls input").forEach(i => { const id = i.id.slice(2); i.value = id === "split" ? SPLIT : W[id]; i.dispatchEvent(new Event("input")); });
+  });
+}
+
+function compute(p) {
+  const A = D.rubric.stream_a, B = D.rubric.stream_b;
+  const wa = A.reduce((s, c) => s + W[c.id], 0) || 1;
+  const a = A.reduce((s, c) => s + W[c.id] * (p.scores[c.id] ?? 0) / 5, 0) / wa * 100;
+  const bs = B.filter(c => p.scores[c.id] !== null && W[c.id] > 0);
+  const wb = bs.reduce((s, c) => s + W[c.id], 0);
+  const b = bs.length >= D.rubric.stream_b_min_items && wb > 0 ? bs.reduce((s, c) => s + W[c.id] * p.scores[c.id], 0) / wb * 20 : null;
+  const comb = b === null ? SPLIT / 100 * a : SPLIT / 100 * a + (1 - SPLIT / 100) * b;
+  return { a, b, comb, partial: b === null };
+}
+
+function render() {
+  const excl = document.getElementById("excl").checked, viable = document.getElementById("viable").checked;
+  const rows = D.parties.map(p => ({ ...p, ...compute(p) })).sort((x, y) => y.comb - x.comb);
+  const eligible = rows.filter(r => (!excl || !r.excluded) && (!viable || r.seats >= D.rubric.viability_min_seats) && !r.partial);
+  document.getElementById("top3").innerHTML = eligible.slice(0, 3).map((r, i) =>
+    `<div class="card"><div class="rank">#${i + 1}</div><span class="he">${r.letters}</span><b>${r.name}</b><div class="score">${r.leader} · combined ${fmt(r.comb)} · A ${fmt(r.a)} · B ${fmt(r.b)}</div></div>`).join("");
+  document.getElementById("top3note").textContent = "Ballot letters from the CEC candidate lists. " + (eligible.length < 3 ? "Fewer than three lists meet the current filters." : "");
+  const A = D.rubric.stream_a.map(c => c.id), B = D.rubric.stream_b.map(c => c.id);
+  document.getElementById("ranking").innerHTML =
+    `<tr><th>#</th><th>List</th><th class="n">Ballot</th><th class="n">Combined</th><th class="n">Stream A</th><th class="n">Stream B</th><th class="n">Polled seats</th></tr>` +
+    rows.map((r, i) => `<tr><td>${i + 1}</td><td><b>${r.name}</b>${r.excluded ? '<span class="pill">Netanyahu</span>' : ""}${r.seats < D.rubric.viability_min_seats ? '<span class="pill low">below threshold</span>' : ""}<br><span class="muted">${r.leader}</span></td>
+      <td class="n he">${r.letters}</td><td class="n" style="background:${shade(r.comb / 100)}">${fmt(r.comb)}${r.partial ? "*" : ""}</td>
+      <td class="n" style="background:${shade(r.a / 100)}">${fmt(r.a)}</td><td class="n" style="background:${shade(r.b === null ? null : r.b / 100)}">${fmt(r.b)}</td><td class="n">${r.seats ? fmt(r.seats) : "–"}</td></tr>`).join("") +
+    `<tr><td colspan="7" class="muted">* fewer than ${D.rubric.stream_b_min_items} Stream B items scored: combined = A share only.</td></tr>`;
+  document.getElementById("legend").innerHTML = D.rubric.stream_a.concat(D.rubric.stream_b).map(c => `<b>${c.id}</b> ${c.name}`).join(" · ") + ". – = no evidence found.";
+  document.getElementById("matrix").innerHTML = `<tr><th>List</th>${A.concat(B).map(k => `<th class="n">${k}</th>`).join("")}</tr>` +
+    rows.map(r => `<tr><td>${r.name}</td>${A.concat(B).map(k => { const v = r.scores[k]; return `<td class="n" style="background:${shade(v === null ? null : v / 5)}" title="${(r.why[k] || "").replace(/"/g, "&quot;")}">${v ?? "–"}</td>`; }).join("")}</tr>`).join("");
+  const names = Object.fromEntries(D.rubric.stream_a.concat(D.rubric.stream_b).map(c => [c.id, c.name]));
+  document.getElementById("profiles").innerHTML = rows.filter(r => r.seats >= 1 || r.comb > 15).map(r =>
+    `<details><summary>${r.name} <span class="he">${r.letters}</span> <span class="muted">· combined ${fmt(r.comb)}</span></summary>
+     <p>${r.summary}</p><table class="why">${A.concat(B).map(k => `<tr><td><b>${k}</b></td><td>${names[k]}</td><td class="n" style="background:${shade(r.scores[k] === null ? null : r.scores[k] / 5)}">${r.scores[k] ?? "–"}</td><td>${r.why[k] || ""}${r.basis[k] === "inferred" ? " <i>(inferred)</i>" : ""}</td></tr>`).join("")}</table></details>`).join("") +
+    `<p class="muted">Minor lists: see <code>research/parties/minor-lists.md</code> in the repo.</p>`;
+}
+</script>
+</body>
+</html>
